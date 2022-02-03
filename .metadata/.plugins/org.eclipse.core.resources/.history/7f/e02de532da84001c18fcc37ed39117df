@@ -1,0 +1,5 @@
+package com.mouritech.customermanagementsystem.config;
+
+public class SpringMvcDispatcherServletInitializer {
+
+}

@@ -1,0 +1,6 @@
+package com.mouritech.springframework.firstapp;
+
+@Service
+public class HelloWorld {
+
+}

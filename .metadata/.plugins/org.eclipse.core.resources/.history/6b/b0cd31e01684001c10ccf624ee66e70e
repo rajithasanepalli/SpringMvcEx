@@ -1,0 +1,5 @@
+package com.mouritech.springdiexample.fieldbaseddi;
+
+public class FieldBasedInjection {
+
+}

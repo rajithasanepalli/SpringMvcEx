@@ -1,0 +1,5 @@
+package com.mouritech.customermanagementsystem.model;
+
+public class Customer {
+
+}

@@ -1,0 +1,5 @@
+package com.mouritech.springdiexamp;
+
+public class AppConfiguration {
+
+}
